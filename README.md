@@ -116,4 +116,10 @@ Projeto desenvolvido para a **Global Solution FIAP 2026** — Indústria Espacia
 | Matheus Mendes Duarte da Silva | 569559 |
 | Matheus Sato Oliveira do Prado | 569392 |
 
+---
+
+## Projeto no Tinkercad
+
+link do Proxi: https://www.tinkercad.com/things/29zRLxZpCvL-proxi?sharecode=rSiUbJG8VREQmtYSrDyj_6KJQgiUfk8EK25qNN9aiOA
+
 > *"O dado que estava no espaço. O laudo que chegou até você."*
